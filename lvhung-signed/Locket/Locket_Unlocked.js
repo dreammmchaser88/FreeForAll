@@ -375,12 +375,12 @@ try {
                     section: "Limited Edition",
                     items: [
                         { overlay_id: "caption:vietthungg88", source: "remote", caption: { background: { colors: ["#B8E7FF", "#31A5C3", "#1EC3DC"] }, icon: { data: "🐣", type: "emoji", color: "#183153" }, max_lines: 1, text: "Design by LeVietHung", text_color: "#183153", type: "static_content" } },
-                        { overlay_id: "caption:cr7_siuuuu", source: "remote", caption: { background: { colors: ["#E42518", "#e25353"] }, icon: { data: "7️⃣", type: "emoji" }, max_lines: 1, text: "Siuuuuu!", localized_text: { en: "Siuuuuu!", vn: "Siuuuuu!" }, text_color: "#FFFFFF", type: "static_content" } },
+                        { overlay_id: "caption:cr7_siuuuu", source: "remote", caption: { background: { colors: ["#E42518", "#110909"] }, icon: { data: "⚽️", type: "emoji" }, max_lines: 1, text: "Siuuuuu!", localized_text: { en: "Siuuuuu!", vn: "Siuuuuu!" }, text_color: "#FFFFFF", type: "static_content" } },
                         { overlay_id: "caption:mu_vua_nuoc_anh", source: "remote", caption: { background: { colors: ["#DA291C", "#530A0B"] }, icon: { data: "🌟", type: "emoji" }, max_lines: 1, text: "MU là vua của nước Anh", text_color: "#d9e4eb", type: "static_content" } },
                     ]
                 },
                 {
-                    section: "Holiday",
+                    section: "Festival",
                     items: [
                         { overlay_id: "caption:halloween_2026", source: "remote", caption: { background: { colors: ["#150804", "#C8540D"] }, icon: { type: "image", data: "https://storage.googleapis.com/locket-public/journal_calendar_assets/holiday_indicators/halloween_indicator%403x.png", source: "url" }, max_lines: 1, text: "Halloween", localized_text: { en: "Halloween", vn: "Halloween" }, text_color: "#FFB182", type: "static_content" } },
                         { overlay_id: "caption:spring", source: "remote", caption: { background: { colors: ["#FFB7C5", "#FF7EB3"] }, icon: { data: "🌸", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Xuân", localized_text: { en: "Xin chào Mùa Xuân", vn: "Xin chào Mùa Xuân" }, text_color: "#FFFFFF", type: "static_content" } },
