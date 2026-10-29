@@ -377,6 +377,7 @@ try {
                         { overlay_id: "caption:vietthungg88", source: "remote", caption: { background: { colors: ["#B8E7FF", "#31A5C3", "#1EC3DC"] }, icon: { data: "🐣", type: "emoji", color: "#183153" }, max_lines: 1, text: "Design by LeVietHung", text_color: "#183153", type: "static_content" } },
                         { overlay_id: "caption:cr7_siuuuu", source: "remote", caption: { background: { colors: ["#E42518", "#e25353"] }, icon: { data: "7️⃣", type: "emoji" }, max_lines: 1, text: "Siuuuuu!", localized_text: { en: "Siuuuuu!", vn: "Siuuuuu!" }, text_color: "#FFFFFF", type: "static_content" } },
                         { overlay_id: "caption:mu_vua_nuoc_anh", source: "remote", caption: { background: { colors: ["#DA291C", "#530A0B"] }, icon: { data: "🌟", type: "emoji" }, max_lines: 1, text: "MU là vua của nước Anh", text_color: "#d9e4eb", type: "static_content" } },
+                    ]
                 },
                 {
                     section: "Holiday",
