@@ -59,7 +59,7 @@ try {
                         imageURL: "https://cdn.upanhlaylink.com/i/KwDdo7B9.png"
                     }
                 ],
-                primary_button_title: "Xong rồi nhaaa!",
+                primary_button_title: "Oke la lá lô!",
                 campaign: "locket_gold_welcome_v3",
                 start_at: "2020-01-01T00:00:00",
                 end_at: "2099-12-31T23:59:59",
